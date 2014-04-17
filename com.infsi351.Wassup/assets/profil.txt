@@ -1,0 +1,5 @@
+Alice,alice,alicecaron94@gmail.com
+Guillaume,guillaume,g.paillot@gmail.com
+Marcel,marcel,marcel.yayo@gmail.com
+Joffrey,joffrey,joffrey.kanmogne-chatchueng@telecom-paristech.fr
+Julien,julien,julien.loudet@telecom-paristech.fr
