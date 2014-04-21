@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wassup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+	<!-- Connexion activity -->
+    <string name="connexionLabel">WASSUP: Connexion</string>
+    <string name="connexionTitle">Connexion à WASSUP</string>
+    <string name="username">Username</string>
+    <string name="usernameEdit"></string>
+    <string name="password">Password</string>
+    <string name="passwordEdit"></string>
+    <string name="connexion">OK</string>
+</resources>

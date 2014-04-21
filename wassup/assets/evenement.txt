@@ -1,0 +1,2 @@
+musique,DJ,concert,représentation,David Guetta,Un des meilleurs artistes français au monde,30,Bercy,30,2014-06-12,2014-08-02
+sport,officiel,compétition,fond,marathon,Le marathon de Paris,0,Paris,2014-04-05
